@@ -1,0 +1,20 @@
+FPGA RTL Analysis Result
+========================
+
+Tool:
+GOWIN FPGA Designer V1.9.12.03
+
+Device:
+GW1NSR-LV4CQN48PC6/I5
+
+RTL Analysis:
+Completed successfully
+
+Errors:
+0
+
+Warnings:
+0
+
+Status:
+RTL analysis completed successfully.
