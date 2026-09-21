@@ -1,0 +1,19 @@
+FPGA Bitstream Generation Result
+================================
+
+Tool:
+GOWIN FPGA Designer V1.9.12.03
+
+Device:
+GW1NSR-LV4CQN48PC6/I5
+
+Bitstream:
+Generated successfully
+
+Generated Files:
+TFPGA_Programming.bin
+TFPGA_Programming.binx
+TFPGA_Programming.fs
+
+Status:
+FPGA bitstream generation completed successfully.
