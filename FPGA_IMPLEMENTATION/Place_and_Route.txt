@@ -1,0 +1,14 @@
+FPGA Place and Route Result
+===========================
+
+Tool:
+GOWIN FPGA Designer V1.9.12.03
+
+Device:
+GW1NSR-LV4CQN48PC6/I5
+
+Place and Route:
+Completed successfully
+
+Status:
+Design completed place and route.
