@@ -1,0 +1,18 @@
+PCM1808 I2S Receiver Simulation Result
+======================================
+
+Testbench:
+pcm1808_i2s_rx_tb.v
+
+Test Data:
+LEFT  = 123456
+RIGHT = ABCDEF
+
+Simulation Result:
+PASS: LEFT DATA = 123456
+PASS: RIGHT DATA = abcdef
+
+I2S RECEIVER TEST COMPLETE
+
+Verification Status:
+24-bit Left and Right channel data reception verified successfully.
